@@ -8,9 +8,9 @@ i will share my project source to github (Hamicoo) ASAP.
 به وسیله این برنامه شما قادر خواهید بود داغ ترین هشتگ کاربران فارسی زبان دنیا را در توییتر دنبال کنید
 و در قسمتی دیگر کاربران تاثیر گذار در داغ شدن آن در شبکه را نیز مشاهده نمایید.
 
-<img src="https://github.com/hamicoo/twitter_persian_crawler/blob/master/2.JPG">
+<img src="https://github.com/hamicoo/twitter_persian_crawler/blob/master/2.JPG" height="300" width="300">
 <br>
-<img src="https://github.com/hamicoo/twitter_persian_crawler/blob/master/3.JPG">
+<img src="https://github.com/hamicoo/twitter_persian_crawler/blob/master/3.JPG" height="300" width="300">
 <br>
-<img src="https://github.com/hamicoo/twitter_persian_crawler/blob/master/users.JPG">
+<img src="https://github.com/hamicoo/twitter_persian_crawler/blob/master/users.JPG" height="300" width="300">
 
