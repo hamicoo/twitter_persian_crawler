@@ -1,4 +1,4 @@
-<b>"hashtag crawler on persian tweets"</b>
+<strong>"hashtag crawler on persian tweets"</strong>
 <br>
 with using Elasticsearch, python (tweepy-hazm api) and Tableau ( For visualization)
 attached image is result of one day mining ( 8/7/2018 - 1396/05/16)
