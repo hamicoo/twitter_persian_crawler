@@ -8,3 +8,8 @@ i will share my project source to github (Hamicoo) ASAP.
 و در قسمتی دیگر کاربران تاثیر گذار در داغ شدن آن در شبکه را نیز مشاهده نمایید.
 
 <img src="https://github.com/hamicoo/twitter_persian_crawler/blob/master/2.JPG">
+<br>
+<img src="https://github.com/hamicoo/twitter_persian_crawler/blob/master/3.JPG">
+<br>
+<img src="https://github.com/hamicoo/twitter_persian_crawler/blob/master/users.JPG">
+
