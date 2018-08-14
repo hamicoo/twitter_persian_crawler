@@ -1,8 +1,7 @@
 <strong>"hashtag crawler on persian tweets"</strong>
 <br>
 with using Elasticsearch, python (tweepy-hazm api) and Tableau ( For visualization)
-attached image is result of one day mining ( 8/7/2018 - 1396/05/16)
-i will share my project source to github (Hamicoo) ASAP.
+attached image is result of one day mining ( 8/7/2018 - 1396/05/16).
 <br>
 <p style = " direction: rtl   ;" >
 خزنده هشتگ در توییت های کاربران فارسی زبان
