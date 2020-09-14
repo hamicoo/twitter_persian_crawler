@@ -10,7 +10,6 @@ import time
 #from redis_ import redis_hashtag_writer
 from hazm import *
 import os
-os.environ["HTTPS_PROXY"] = "http://ir402013:136820@us.mybestport.com:443"
 
 
 stemmer = Stemmer()
