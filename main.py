@@ -21,22 +21,17 @@ cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
 from elasticsearch import Elasticsearch
 
 #es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
-# import os
-# os.environ["HTTPS_PROXY"] = "http://ir402013:136820@us.mybestport.com:443"
+
+
 
 
 consumer_key = "-"
 consumer_secret = "-"
 
-# After the step above, you will be redirected to your app's page.
-# Create an access token under the the "Your access token" section
 access_token = "-"
 access_token_secret = "-"
 
 
-# cur.execute("""select count(*) from twitter """)
-# count = cur.fetchall()
-# print(count)
 
 
 
@@ -52,23 +47,8 @@ print(imported_list)
 
 
 
-
-
-
-
-
-# for i in imported_list_:
-#     j = [i.rstrip().lstrip()]
-#     imported_list.append(j)
-# print(imported_list)
-# print(len(imported_list))
 print('------------Miner Start-----------------')
 
-
-
-# The pil way (if you don't have matplotlib)
-# image = wordcloud.to_image()
-# image.show()
 
 
 
@@ -136,8 +116,6 @@ class StdOutListener(StreamListener):
 			print(imported_list)
 
 
-# r = requests.get('http://localhost:9200')
-# es.index(index='hash_tag', doc_type='hashtag', id=len(hashtags), body=json.dumps(hashtags))
 
 
 def twitter_engine(last_tag):
